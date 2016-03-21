@@ -13,4 +13,4 @@ alias pycharm5="/home/yliangsiew/Applications/pycharm-community-5.0.4/bin/pychar
 alias qmake="/usr/lib64/qt4/bin/qmake $*"
 
 ## Build aliases
-alias buildp='bl -p=build blpkgpub -d -f 1 -z 0 -o "/corp.blizzard.net/BFD/Farm/Public/$USER/packages" $*'
+alias buildpackage='bl -p=build blpkgpub -d -f 1 -z 0 -o "/corp.blizzard.net/BFD/Farm/Public/$USER/packages" $*'

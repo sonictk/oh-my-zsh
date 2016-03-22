@@ -4,3 +4,4 @@
 export BFD_DEV_ROOT=/home/yliangsiew/svn/dev/Pipeline/Trunk
 export BFD_DEPLOYABLES_ROOT=/home/yliangsiew/svn/dev/Deployables/Trunk
 export BFD_PKG_ROOT=$HOME/src/pkg
+export PYTHONSTARTUP=~/.pythonrc

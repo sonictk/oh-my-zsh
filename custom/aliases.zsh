@@ -10,8 +10,10 @@ alias gl=git log --oneline --all --graph --decorate $*
 alias kill_maya="pkill maya"
 alias kill_mari="pkill MriBin"
 
-alias charm="/home/yliangsiew/Applications/pycharm-community-5.0.4/bin/pycharm.sh"
-alias pycharm5="/home/yliangsiew/Applications/pycharm-community-5.0.4/bin/pycharm.sh"
+alias charm="/home/yliangsiew/Applications/pycharm-community-2016.1/bin/pycharm.sh"
+alias pycharm5="/home/yliangsiew/Applications/pycharm-community-2016.1/bin/pycharm.sh"
+
+alias sublimetext="/home/yliangsiew/Applications/sublime_text_3/sublime_text"
 
 alias qmake="/usr/lib64/qt4/bin/qmake $*"
 

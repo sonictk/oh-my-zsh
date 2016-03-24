@@ -1,5 +1,6 @@
 # Custom environment variables
 # These are additional environent variables that are set by the end-user.
+export PATH=$PATH:/home/yliangsiew/.local/bin
 export PYTHONSTARTUP=~/.pythonrc
 
 # Blizzard-specific environment variables

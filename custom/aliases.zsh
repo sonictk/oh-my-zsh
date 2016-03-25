@@ -19,3 +19,4 @@ alias qmake="/usr/lib64/qt4/bin/qmake $*"
 
 ## Build aliases
 alias buildpackage='bl -p=build blpkgpub -d -f 1 -z 0 -o "/corp.blizzard.net/BFD/Farm/Public/$USER/packages" $*'
+alias updatepipeline="bl -p=build blpipeup $*"

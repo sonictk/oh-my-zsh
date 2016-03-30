@@ -16,6 +16,7 @@ alias pycharm5="/home/yliangsiew/Applications/pycharm-community-2016.1/bin/pycha
 alias sublimetext="/home/yliangsiew/Applications/sublime_text_3/sublime_text"
 
 alias qmake="/usr/lib64/qt4/bin/qmake $*"
+alias npm="/home/yliangsiew/Downloads/node-v5.9.1-linux-x64/bin/npm"
 
 ## Build aliases
 alias buildpackage='bl -p=build blpkgpub -d -f 1 -z 0 -o "/corp.blizzard.net/BFD/Farm/Public/$USER/packages" $*'

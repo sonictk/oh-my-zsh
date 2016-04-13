@@ -16,7 +16,7 @@ alias pycharm5="/home/yliangsiew/Applications/pycharm-community-2016.1/bin/pycha
 alias sublimetext="/home/yliangsiew/Applications/sublime_text_3/sublime_text"
 
 alias qmake="/usr/lib64/qt4/bin/qmake $*"
-alias npm="/home/yliangsiew/Downloads/node-v5.9.1-linux-x64/bin/npm"
+alias npm="/home/yliangsiew/bin/node-v5.9.1-linux-x64/bin/npm"
 
 # alias firefox="/home/yliangsiew/bin/firefox/firefox" # Firefox 45 search bar is not working properly, need to fix it before attempting to re-enable this alias
 

@@ -8,6 +8,8 @@ alias git ls-files | xargs cat | wc -l
 alias gl=git log --oneline --all --graph --decorate $*
 
 # Blizzard aliases
+alias goto_scripts="cd ~/svn/dev/Users/yliangsiew/scripts"
+alias goto_pipelines="cd /corp.blizzard.net/BFD/Farm/Public/yliangsiew/pipelines"
 
 ## Application aliases
 alias kill_maya="pkill maya"

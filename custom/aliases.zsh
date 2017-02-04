@@ -10,3 +10,4 @@ alias gl=git log --oneline --all --graph --decorate $*
 ## Application aliases
 alias kill_maya="pkill maya"
 alias kill_mari="pkill MriBin"
+alias mayapy="/usr/autodesk/maya2016/bin/mayapy"

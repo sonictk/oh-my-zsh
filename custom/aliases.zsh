@@ -28,3 +28,4 @@ alias npm="/home/yliangsiew/bin/node-v5.9.1-linux-x64/bin/npm"
 ## Build aliases
 alias buildpackage='bl -p=build blpkgpub -d -f -z -o "/corp.blizzard.net/BFD/Farm/Public/$USER/packages" $*'
 alias updatepipeline="bl -p=build blpipeup $*"
+alias gitr="/home/yliangsiew/bin/node-v5.9.1-linux-x64/lib/node_modules/gitr/bin/gitr.js $*"

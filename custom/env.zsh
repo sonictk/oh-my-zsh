@@ -4,4 +4,5 @@ export PATH=$PATH:/home/yliangsiew/.local/bin:/home/yliangsiew/bin/node-v5.9.1-l
 export PYTHONSTARTUP=~/.pythonrc
 export VISUAL=vim
 export EDITOR="$VISUAL"
+export BFD_BLISTER=0
 export GPGKEY=yliangsiew@blizzard.com

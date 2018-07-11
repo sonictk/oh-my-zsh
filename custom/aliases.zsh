@@ -31,3 +31,5 @@ alias updatepipeline="bl -p=build blpipeup $*"
 alias gitr="/home/yliangsiew/bin/node-v5.9.1-linux-x64/lib/node_modules/gitr/bin/gitr.js $*"
 
 alias seewindows="xfreerdp -f -g 1920x1200 -x l -a 32 -k en-us --plugin cliprdr -d blizzard -u yliangsiew ylsiew-w7"
+
+alias bl="export PYTHONNOUSERSITE=1; bl $*"

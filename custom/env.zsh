@@ -14,6 +14,7 @@ export GPGKEY=yliangsiew@blizzard.com
 # BFD Aurora configuration
 export BFD_AURORA_PIPELINE=/corp.blizzard.net/BFD/Farm/Public/$USER/caches/aurora.pipeline
 export BFD_CACHE_DIR=/corp.blizzard.net/BFD/Farm/Public/$USER/caches
+export AU_TEST_DATA=/tmp/tmpRsAPrk
 
 # Enable core dumps
 ulimit -c unlimited
